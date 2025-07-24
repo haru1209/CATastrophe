@@ -21,7 +21,7 @@ You’ll have to see for yourself.
 The real mystery isn’t her. It’s why you’re still here.  
 
 ## How to Play?
-- Download and launch the game on your platform.
+- [Download](https://github.com/haru1209/CATastrophe/releases) and launch the game on your platform.
 - Click the catgirl.
 - Repeat as desired.
 - Wonder what you’re doing with your life.
@@ -42,4 +42,4 @@ Encounter a bug or a metaphysical crisis?
 Instagram: [@haru1209_](https://www.instagram.com/haru1209_/)  
 Or just pet a real cat. Sometimes that helps.  
 
-2025/7/20 Hinoao
+2025/7/24 Haru
